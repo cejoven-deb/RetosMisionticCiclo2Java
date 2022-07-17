@@ -1,0 +1,66 @@
+//////////////////////////////////////////////
+	UDEMY Diversos           
+	Password: (b17dje -/) 
+	*La contraseña sin paréntesis 
+//////////////////////////////////////////////
+
+
+
+1) Bootstrap 4 Practico desde cero (2.2GB)
+	Part1: https://exe.io/udemy1_1
+	Part2: https://exe.io/udemy1_2
+
+2) Guía completa para TensorFlow (5.2GB)
+	Part1: https://exe.io/udemytensorflow1
+	Part2: https://exe.io/udemytensorflow2
+
+3) Master Flutter Dart de cero a experto (4.9GB)
+	Part1: https://exe.io/flutterdart1
+	Part2: https://exe.io/flutterdart2
+
+4) Adobe XD CC Máster Diseño profesional de prototipos (10.7GB)
+	Part1: https://exe.io/adobexdcc1
+	Part2: https://exe.io/adobexdcc2
+	Part3: https://exe.io/adobexdcc3
+
+5) Flutter Avanzado lleva tu conocimiento al siguiente nivel (14.9GB)
+	Part1: https://exe.io/flutterA1
+	Part2: https://exe.io/flutterA2
+	Part3: https://exe.io/flutterA3
+	Part4: https://exe.io/flutterA4
+	Part5: https://exe.io/flutterA5
+	Part6: https://exe.io/flutterA6
+	Part7: https://exe.io/flutterA7
+	Part8: https://exe.io/flutterA8
+
+6) Flutter desde cero enfocado en el diseño UI y UX (10.6GB)
+	Part1: https://exe.io/flutteruiux1
+	Part2: https://exe.io/flutteruiux2
+	Part3: https://exe.io/flutteruiux3
+
+7) Flutter intermedio Diseños profesionales y animaciones (8.3GB)
+	Part1: https://exe.io/flutteranimaciones1
+	Part2: https://exe.io/flutteranimaciones2
+	Part3: https://exe.io/flutteranimaciones3
+
+8) Fundamentos de programación (22.8GB)
+	Part1: https://exe.io/fundamentosprogra1
+	Part2: https://exe.io/fundamentosprogra2
+	Part3: https://exe.io/fundamentosprogra3
+	Part4: https://exe.io/fundamentosprogra4
+	Part5: https://exe.io/fundamentosprogra5
+	Part6: https://exe.io/fundamentosprogra6
+
+9) La biblia de Nodejs (4.3GB)
+	Part1: https://exe.io/biblianode1
+	Part2: https://exe.io/biblianode2
+
+10) Universidad JavaScript (16.8GB)
+	Part1: https://exe.io/unijs1
+	Part2: https://exe.io/unijs2
+	Part3: https://exe.io/unijs3
+	Part4: https://exe.io/unijs4
+	Part5: https://exe.io/unijs5
+
+11) Excel negocios de basico a avanzado (1.2GB)
+	Part1: https://exe.io/excelnegocioslk
